@@ -1,1 +1,37 @@
-[]
+[
+  {
+    "nama": "andi",
+    "email": "andi@yahoo.com",
+    "noHp": "123123123"
+  },
+  {
+    "nama": "doni",
+    "email": "doni@gmail.com",
+    "noHp": "09234098234"
+  },
+  {
+    "nama": "roger",
+    "email": "roger@gmail.com",
+    "noHp": "212312312"
+  },
+  {
+    "nama": "al",
+    "email": "yuyu@gmail.com",
+    "noHp": "12312312"
+  },
+  {
+    "nama": "luffy",
+    "email": "luffy@gmail.com",
+    "noHp": "3453423523"
+  },
+  {
+    "nama": "jon",
+    "email": "hahsh@jsd.com",
+    "noHp": "081123123123"
+  },
+  {
+    "nama": "Galih",
+    "email": "galih@gmail.com",
+    "noHp": "081123123122"
+  }
+]
