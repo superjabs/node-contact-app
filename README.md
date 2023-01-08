@@ -1,6 +1,6 @@
 <h1>Node Contact App - CLI</h1>
 <h3>my first project learning NODE JS</h3>
-<p>app details :</p>
+<p>app features :</p>
 <ul>
   <li>add, get, and remove data</li>
   <li>only run in terminal</li>
